@@ -15,6 +15,9 @@ cd your_project_name
 ...
 
 # Install dependencies
+yarn cache clean
 yarn install
+yarn husky:prepare
+enable eslint and prettier extensions
 
 ```
