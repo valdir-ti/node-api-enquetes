@@ -20,4 +20,7 @@ yarn install
 yarn husky:prepare
 enable eslint and prettier extensions
 
+# Before send yours commits to github, you need changes the remote address of your repository
+git remote add origin git@github.com:your_github_name/your_project_name.git
+
 ```
