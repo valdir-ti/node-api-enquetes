@@ -7,7 +7,7 @@ TypeScript project boilerplate with modern tooling, for Node.js programs, librar
 ## Getting Started
 
 ```bash
-# Clone the repository (you can also click "Use this template")
+# Clone the repository
 git clone https://github.com/valdir-ti/typescript-node-boilerplate your_project_name
 cd your_project_name
 
