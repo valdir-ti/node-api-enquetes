@@ -1,2 +1,5 @@
+[Bb]uild*
+[Dd]ist*
+[Bb]in*
 node_modules
-dist
+package-lock.json
