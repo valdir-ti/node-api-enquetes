@@ -1,6 +1,9 @@
-import { Controller } from "../protocols/controller"
-import { httpRequest, httpResponse } from "../protocols/http"
-import { EmailValidator } from "../protocols/email-validator"
+import {
+  Controller,
+  EmailValidator,
+  httpResponse,
+  httpRequest,
+} from "../protocols"
 
 import { badRequest, serverError } from "../helpers/http-helper"
 
